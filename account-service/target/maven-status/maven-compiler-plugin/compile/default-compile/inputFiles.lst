@@ -1,0 +1,4 @@
+/home/abidk/Projects/microservice-poc/account-service/src/main/java/com/abid/microservice/model/Account.java
+/home/abidk/Projects/microservice-poc/account-service/src/main/java/com/abid/microservice/controller/AccountController.java
+/home/abidk/Projects/microservice-poc/account-service/src/main/java/com/abid/microservice/AccountServer.java
+/home/abidk/Projects/microservice-poc/account-service/src/main/java/com/abid/microservice/config/JerseyConfig.java
